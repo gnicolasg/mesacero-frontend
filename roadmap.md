@@ -1,0 +1,19 @@
+- [x] Sustituir el retrato de Rebeca por una identidad gráfica sin personas.
+- [x] Añadir tres sugerencias interactivas de consulta en el chat.
+- [x] Elevar el acabado visual profesional del panel de Rebeca.
+- [x] Rediseñar el panel de Rebeca para integrarlo mejor con el dashboard claro y corregir contraste y densidad.
+- [x] Integrar avatar silueta de mujer (genérica, sin rostro) y rediseñar la bienvenida como tarjeta profesional.
+- [x] Rediseñar la pestaña Equipo (dirección "Grid analítico moderno"): heatmap con horas centradas y fines de semana destacados, burbujas con etiquetas de nombre, barras de canal con importes fuera de la barra.
+- [x] Compactar la pestaña Menús: Top 10 más denso, categorías etiquetadas en el anillo e Ingeniería de Menús visible en paralelo.
+- [x] Retirar los iconos de Menús y dar más aire a Top 10 y Distribución por Categoría.
+- [x] Rediseñar Salud del negocio con una lectura ejecutiva e indicadores relevantes y comprensibles.
+- [x] Dar protagonismo al medidor de salud y compactar el dashboard completo para una lectura inicial sin desplazamiento.
+- [x] Aplicar una paleta empresarial global: marca esmeralda, categorías frías y estados semánticos.
+- [x] Reforzar la presencia de Mesa Cero en la landing y el dashboard con una palabra-marca coherente y compacta.
+- [x] Mostrar Rebeca como burbuja flotante en móvil y abrir un panel no modal que deje visibles los datos del dashboard.
+- [x] Destacar la burbuja de Rebeca y mantener el campo de escritura visible encima del teclado móvil.
+- [x] Mejorar la lectura de Menús: etiquetas completas en Top 10, distribución interactiva con ingresos y matriz explicada a primera vista.
+- [x] Hacer plegable el panel lateral de Rebeca en escritorio y ensanchar el dashboard sin alterar la burbuja móvil.
+- [x] Eliminar el icono PanelRight de la barra superior en escritorio: el tirador lateral es el único control del panel.
+- [x] Ajustar las tres tarjetas de Menús a la altura visible con el chat abierto y cerrado.
+- [x] Redistribuir Equipo para verlo sin desplazamiento con Rebeca abierta o cerrada, priorizando turnos y camareros sobre los tres canales.
